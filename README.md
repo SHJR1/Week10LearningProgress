@@ -7,7 +7,7 @@
 
 ## Course
 
-[Learn Java from Codeacademy](https://www.codecademy.com/learn/learn-java)
+[Learn Java from Codecademy](https://www.codecademy.com/learn/learn-java)
 
 ## Progress
 

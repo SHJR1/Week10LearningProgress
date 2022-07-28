@@ -11,6 +11,11 @@ Java - [Learn Java from Codecademy](https://www.codecademy.com/learn/learn-java)
 
 Vert.x - [Youtube Vert.x Tutorial Playlist](https://youtube.com/playlist?list=PLkeCJDaCC2ZsnySdg04Aq9D9FpAZY6K5D)
 
+## Project Ideas
+
+- Movie Theatre API
+- Inventory App
+
 ## Progress
 
 **7/27/22 - Wednesday**

@@ -16,7 +16,7 @@ Vert.x - [Youtube Vert.x Tutorial Playlist](https://youtube.com/playlist?list=PL
 - Movie Theatre API
 - Inventory App
 
-## Plans for project
+## Plans for project - Week 11
 
  - Start on creating a CRUD application with Vert.x & Java
  - Add React front-end if I have time
